@@ -1,6 +1,7 @@
 # NYC Citi Bike Analysis
 Let's take a look at the Tableau Story to determine if Des Moines would be an acceptable location to start a bike-sharing business.
-Public Tableau Link: https://public.tableau.com/profile/fahima.farha#!/vizhome/Bike_Challenge/Bike_Sharing
+
+Link to Public Tableau: https://public.tableau.com/profile/fahima.farha#!/vizhome/Bike_Challenge/Bike_Sharing
 
 ## Population in NYC and DM
 To begin, we took a look at the population between New York City (NYC) and Des Moines (DM). New York City has an estimated population of about 8.3 million while Des Moines has a population of about 214 hundred thousand. Upon first glance, it may seem that the drastic difference in population size makes it seem that Des Moines would not be conducive area to start a bike-sharing business. However, if you breakdown the population by gender, you see that NYC and DM have roughly the same gender ratios. The pie chart titled "Bicycle Renters In NYC" shows that the majority of bike renters are male. From this we can assume that a similar renting pattern would occur in Des Moines, where men would consist of the greatest portion of renters.
