@@ -9,10 +9,10 @@ To begin, we took a look at the population between New York City (NYC) and Des M
 ## Bike Rental 
 The "Customer" pie chart shows us that the majority of bike customers in NYC are subscribers. This is an interesting demographic to look at because normally we think of NYC as the hub for tourism. However, the pie chart tells us otherwise. In addition, if we look at the type of bike users in the "August Peak Hours" graph, we can once again see that the majority of users are in fact locals. This is a promising finding because it means that Des Moines would not have to rely solely its tourism to make the bike-sharing business profitable. 
 
-## Tourim in Des Moines 
+## Tourism in Des Moines 
 That being said, the Greater Des Moines area has an official tourism marketing organization called Catch Des Moines. They provide tourists and locals with a visitiors guide that provides a listings of popular neighborhoods and general insight into what activites are available. We can look through the guide to see that there is a map that highlights the popular neighborhoods. We can use this map to detemine where to place bike renting stations.
 
-## McDonals in DM and NYC
+## McDonalds in DM and NYC
 If we compare the map provided in the visitors guide to the map of McDonalds locations in DM, we can see that there is at least one McDonalds located in each of the popular neighborhoods. In addition, if we compare the map of McDonalds in NYC to the Top Ending Locations of bike rentals in NYC, we can see that there is a congregation of McDonalds in the same location as where a majority of bike-sharers end their journey. 
 
 ## Weather
